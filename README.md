@@ -5,7 +5,6 @@ The emotions currently covered are happy, sad, neutral, ecstatic, angry.
 
 The program is developed and tested on linux environment running ubuntu 13.04.
 Pre-requisite : 
-1. g++ compiler
-2. OpenCV library.
-3. A good editor. (I use sublime-text-2)
-
+(1) g++ compiler
+(2) OpenCV library.
+(3) A good editor. (I use sublime-text-2)
